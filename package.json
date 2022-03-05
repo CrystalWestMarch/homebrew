@@ -11,14 +11,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/TheGiddyLimit/homebrew.git"
+		"url": "git+https://github.com/CrystalWestMarch/homebrew.git"
 	},
 	"author": "TheGiddyLimit + Friends",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/TheGiddyLimit/homebrew/issues"
+		"url": "https://github.com/CrystalWestMarch/homebrew/issues"
 	},
-	"homepage": "https://github.com/TheGiddyLimit/homebrew#readme",
+	"homepage": "https://github.com/CrystalWestMarch/homebrew#readme",
 	"devDependencies": {
 		"ajv": "^8.8.2"
 	}
